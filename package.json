@@ -1,0 +1,23 @@
+{
+  "name": "darkstorm",
+  "version": "1.0.0",
+  "description": "The Darkstorm Military Technologies mod for the Cortex Command Community Project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traunts/darkstorm.git"
+  },
+  "author": "Stewie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traunts/darkstorm/issues"
+  },
+  "homepage": "https://github.com/traunts/darkstorm#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.1",
+    "@commitlint/config-conventional": "^17.4.0",
+    "husky": "^8.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
