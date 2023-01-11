@@ -1,3 +1,3 @@
 function Create(self)
-	self.ToSettle = true;
+	self.ToSettle = true
 end

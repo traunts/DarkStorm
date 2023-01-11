@@ -1,3 +1,3 @@
 function Update(self)
-	self:GibThis();
+	self:GibThis()
 end
